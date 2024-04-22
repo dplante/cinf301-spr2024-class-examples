@@ -1,0 +1,13 @@
+See this link for a good writeup on asynchronous Javascript and Promises
+https://www.digitalocean.com/community/tutorials/how-to-write-asynchronous-code-in-node-js
+
+Also: https://github.com/request/request
+NOTE: It is DEPRECATED!
+
+ALSO!!!  The original https://ghibliapi.herokuapp.com/ sit is no longer live.
+I substitued a free catfacts api instead.  
+
+IMPORTANT: Substitue "cat" for "movie" when reading the above to match the code in this repos!
+
+You can find a number of free APIs at
+https://apipheny.io/free-api/#apis-without-key

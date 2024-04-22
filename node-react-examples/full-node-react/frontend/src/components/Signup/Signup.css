@@ -1,0 +1,17 @@
+.form-container {
+  text-align: left;
+  border: 2px solid gray;
+  border-radius: 5px;
+  margin: 20px auto;
+  width: 700px;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-actions {
+  margin: 0px;
+  text-align: center;
+}
